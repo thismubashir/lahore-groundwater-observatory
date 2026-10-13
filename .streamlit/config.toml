@@ -1,0 +1,8 @@
+# Lahore Groundwater Observatory theme: white background, navy text, teal accent.
+[theme]
+base = "light"
+primaryColor = "#0f8b8d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2f6f8"
+textColor = "#1b2a3a"
+font = "sans serif"

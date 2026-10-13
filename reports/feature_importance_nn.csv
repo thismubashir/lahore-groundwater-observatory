@@ -1,0 +1,10 @@
+feature_group,features,mae_increase_ft,std_ft
+Last seasonal change,"delta_prev_ft, has_prev",0.3517982202286484,0.06899007829442207
+"Rainfall, previous window",rain_prev_mm,0.08229362647466809,0.015644488392643617
+Target season (pre/post),target_is_post,0.04093466639663614,0.020037513676661744
+"Temperature, window ending at origin",t2m_t_c,0.0369772963550958,0.03272180116588512
+Change vs same season last year,"delta_yoy_ft, has_yoy",0.024573575654452697,0.013064147093184156
+Latest depth,depth_t_ft,0.015227179736162314,0.019000023418868518
+Location (lat/lon),"lat, lon",0.010822101835443632,0.02242603294612983
+Ground elevation,ground_elevation_m,-0.011527675061477331,0.0149321986086665
+"Rainfall, window ending at origin",rain_t_mm,-0.08811970113031566,0.02016853984182294

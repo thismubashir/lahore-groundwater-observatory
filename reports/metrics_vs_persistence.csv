@@ -1,0 +1,8 @@
+model,mae_difference_ft,ci95_low,ci95_high,clearly_better
+Same season last year vs Persistence,-0.027575757575757837,-0.37488816110375583,0.2894844959900438,False
+Persistence + avg seasonal change vs Persistence,-0.30838059818038605,-0.6350379498900298,0.05288451791965171,False
+Ridge regression (alpha=0.1) vs Persistence,-0.45481178152238205,-0.7472427869604682,-0.17152956660897384,True
+Ridge without weather features vs Persistence,-0.43426327072505994,-0.7269881752592425,-0.1555432343738721,True
+TensorFlow NN ensemble vs Persistence,-0.3558000126345591,-0.628076615668527,-0.10335678711279549,True
+TensorFlow NN ensemble vs Ridge regression (alpha=0.1),0.09901176888782293,0.024143090830323895,0.18377865882534078,False
+Ridge regression (alpha=0.1) vs Ridge without weather features,-0.02054851079732218,-0.045544097714241796,0.004007335069651085,False

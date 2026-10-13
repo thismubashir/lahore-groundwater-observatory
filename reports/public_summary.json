@@ -1,0 +1,385 @@
+{
+ "generated_on": "2026-10-13",
+ "note": "Aggregate counts only; no per-well identifiers, coordinates or readings.",
+ "wells": 31,
+ "tehsils": 2,
+ "readings": 709,
+ "well_seasons": 1085,
+ "status_counts": {
+  "reading": 709,
+  "closed": 167,
+  "dead": 106,
+  "blank": 89,
+  "not_listed": 14
+ },
+ "observation_period": [
+  "Pre-monsoon 2003",
+  "Pre-monsoon 2020"
+ ],
+ "latest_survey": "Pre-monsoon 2020",
+ "coverage_by_season": [
+  {
+   "season": "Pre-monsoon 2003",
+   "reading": 11,
+   "closed": 0,
+   "dead": 0,
+   "blank": 20,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2003",
+   "reading": 12,
+   "closed": 0,
+   "dead": 0,
+   "blank": 19,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2004",
+   "reading": 12,
+   "closed": 0,
+   "dead": 0,
+   "blank": 19,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2004",
+   "reading": 12,
+   "closed": 0,
+   "dead": 0,
+   "blank": 19,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2005",
+   "reading": 28,
+   "closed": 1,
+   "dead": 0,
+   "blank": 2,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2005",
+   "reading": 28,
+   "closed": 1,
+   "dead": 0,
+   "blank": 2,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2006",
+   "reading": 26,
+   "closed": 3,
+   "dead": 0,
+   "blank": 2,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2006",
+   "reading": 26,
+   "closed": 3,
+   "dead": 0,
+   "blank": 2,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2007",
+   "reading": 24,
+   "closed": 5,
+   "dead": 0,
+   "blank": 2,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2007",
+   "reading": 24,
+   "closed": 5,
+   "dead": 0,
+   "blank": 2,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2008",
+   "reading": 27,
+   "closed": 4,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2008",
+   "reading": 27,
+   "closed": 4,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2009",
+   "reading": 25,
+   "closed": 6,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2009",
+   "reading": 24,
+   "closed": 7,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2010",
+   "reading": 23,
+   "closed": 8,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2010",
+   "reading": 23,
+   "closed": 8,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2011",
+   "reading": 26,
+   "closed": 5,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2011",
+   "reading": 26,
+   "closed": 5,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2012",
+   "reading": 23,
+   "closed": 8,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2012",
+   "reading": 22,
+   "closed": 9,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2013",
+   "reading": 21,
+   "closed": 10,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2013",
+   "reading": 20,
+   "closed": 11,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2014",
+   "reading": 21,
+   "closed": 10,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2014",
+   "reading": 21,
+   "closed": 10,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2015",
+   "reading": 21,
+   "closed": 10,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2015",
+   "reading": 21,
+   "closed": 10,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2016",
+   "reading": 20,
+   "closed": 11,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Post-monsoon 2016",
+   "reading": 18,
+   "closed": 13,
+   "dead": 0,
+   "blank": 0,
+   "not_listed": 0
+  },
+  {
+   "season": "Pre-monsoon 2017",
+   "reading": 17,
+   "closed": 0,
+   "dead": 12,
+   "blank": 0,
+   "not_listed": 2
+  },
+  {
+   "season": "Post-monsoon 2017",
+   "reading": 15,
+   "closed": 0,
+   "dead": 14,
+   "blank": 0,
+   "not_listed": 2
+  },
+  {
+   "season": "Pre-monsoon 2018",
+   "reading": 15,
+   "closed": 0,
+   "dead": 14,
+   "blank": 0,
+   "not_listed": 2
+  },
+  {
+   "season": "Post-monsoon 2018",
+   "reading": 14,
+   "closed": 0,
+   "dead": 15,
+   "blank": 0,
+   "not_listed": 2
+  },
+  {
+   "season": "Pre-monsoon 2019",
+   "reading": 12,
+   "closed": 0,
+   "dead": 17,
+   "blank": 0,
+   "not_listed": 2
+  },
+  {
+   "season": "Post-monsoon 2019",
+   "reading": 12,
+   "closed": 0,
+   "dead": 17,
+   "blank": 0,
+   "not_listed": 2
+  },
+  {
+   "season": "Pre-monsoon 2020",
+   "reading": 12,
+   "closed": 0,
+   "dead": 17,
+   "blank": 0,
+   "not_listed": 2
+  }
+ ],
+ "concern": {
+  "title": "Historical decline concern at monitored wells",
+  "order": [
+   "High",
+   "Medium",
+   "No clear decline detected",
+   "Unknown"
+  ],
+  "rules": {
+   "High": "pre-monsoon depth increased at 1 ft/year or faster, and the whole 95% range of the trend is above zero",
+   "Medium": "pre-monsoon depth increased more slowly than 1 ft/year, and the whole 95% range of the trend is above zero",
+   "No clear decline detected": "the 95% range of the trend includes zero, or the water level rose. This does not mean the water is safe or the supply sufficient",
+   "Unknown": "fewer than 5 pre-monsoon readings or under 5 years of record"
+  },
+  "counts": {
+   "High": 5,
+   "Medium": 10,
+   "No clear decline detected": 12,
+   "Unknown": 4
+  },
+  "deepening": 15,
+  "rising": 3,
+  "with_trend": 27,
+  "median_trend_ft_per_year": 0.4818,
+  "deeper_than_25ft": 21
+ },
+ "rainfall": {
+  "rain_trend_mm_per_year": 8.3497,
+  "rain_trend_low": -3.2885,
+  "rain_trend_high": 17.8485,
+  "rain_first_year": 2003,
+  "rain_last_year": 2020,
+  "mean_monsoon_rain_mm": 459.2489,
+  "rise_ft_per_100mm": 0.3814,
+  "rise_rain_corr": 0.2282,
+  "n_monsoons": 339
+ },
+ "coordinates": {
+  "files_disagree": 8,
+  "disagree_over_threshold": 6,
+  "disagree_below_threshold": 2,
+  "same_village_only": 3,
+  "flagged": 9,
+  "flag_km": 1.0,
+  "max_difference_km": 27.82
+ },
+ "elevation": {
+  "unresolved": 2,
+  "missing": 2
+ },
+ "weather_series": 2,
+ "sources": [
+  {
+   "file": "Water Level PR-03 TO Pr-15 Lahore Zone.xlsx",
+   "readings": 490,
+   "seasons": "Pre-monsoon 2003 – Post-monsoon 2013",
+   "sha256_16": "9105a51c1b468344"
+  },
+  {
+   "file": "Final Water Level PR-2014 TO Post-16 Lahore Zone.xlsx",
+   "readings": 122,
+   "seasons": "Pre-monsoon 2014 – Post-monsoon 2016",
+   "sha256_16": "a12f689e209c5357"
+  },
+  {
+   "file": "WL Lahore Zone 2017-18.xlsx",
+   "readings": 61,
+   "seasons": "Pre-monsoon 2017 – Post-monsoon 2018",
+   "sha256_16": "91a9b1af02801bc5"
+  },
+  {
+   "file": "WL Lahore Zone 2019.pdf",
+   "readings": 24,
+   "seasons": "Pre-monsoon 2019 – Post-monsoon 2019",
+   "sha256_16": "d706ed135718ef74"
+  },
+  {
+   "file": "Lahore WL  PRE-20.xlsx",
+   "readings": 12,
+   "seasons": "Pre-monsoon 2020 – Pre-monsoon 2020",
+   "sha256_16": "6e117f7e896b5fc4"
+  }
+ ]
+}

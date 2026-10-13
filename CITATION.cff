@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite this repository and the specific commit or release you used."
+type: software
+title: "Lahore Groundwater Observatory"
+authors:
+  - family-names: "Ali"
+    given-names: "Mubashir"
+license: MIT
+abstract: "A historical research prototype for next-season groundwater-depth forecasting at monitored Lahore locations, with model comparison and data-quality reporting."
+repository-code: "https://github.com/thismubashir/lahore-groundwater-observatory"
+url: "https://github.com/thismubashir/lahore-groundwater-observatory"

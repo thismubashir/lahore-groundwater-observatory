@@ -1,0 +1,72 @@
+# Local Python environments, editor settings and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
+.vscode/
+
+# Credentials; a reviewed dummy example may be published
+.env
+.env.*
+*.env
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Restricted/local observations, downloaded responses and trained models
+# (source workbooks have unverified redistribution terms; see docs/DATA_POLICY.md)
+/data/raw/
+/data/processed/
+/data/external/
+/models/
+/reports/audit/
+data/optional/*
+!data/optional/survey_template.csv
+!data/optional/README.md
+# original workbooks/PDFs or archives copied outside data/raw/
+*Lahore Zone*.xlsx
+*Lahore Zone*.pdf
+*Lahore WL*.xlsx
+WL-LHR/
+WQ-LHR/
+
+# Per-well exports pending permission review
+**/water_level_risk.md
+**/water_level_risk.csv
+**/forward_forecast.csv
+**/test_predictions.csv
+**/forecast_request.csv
+reports/verification.md
+reports/test_error_by_well.csv
+reports/figures/coverage_heatmap.png
+reports/figures/example_well_trends.png
+reports/figures/test_forecast_vs_observed.png
+reports/figures/test_change_forecast_vs_observed.png
+notebooks/*.executed.ipynb
+# dashboard screenshots: only the public-mode set (aggregates + synthetic example) is shareable
+docs/screenshots/*
+!docs/screenshots/public/
+
+# Filled questionnaires and local backups
+/data/surveys/
+/data/optional/filled/
+/.private/
+*.bak
+*~
+
+# Local execution output and transfer archives
+*.log
+*.rar
+*.zip
+
+# personal scratch file
+inspect_data.py
